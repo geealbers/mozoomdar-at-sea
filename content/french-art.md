@@ -13,7 +13,7 @@ French art consists of the visual and plastic arts (including architecture, wood
 
 France can fairly be said to have been a leader in the development of Romanesque art and Gothic art, before the Italian Renaissance led to Italy replacing France as the main source of stylistic developments until the age of Louis XIV, when France largely regained this role, holding it until the mid-20th century.
 
-{{< q-map lat="48.8566" long="2.3522" geojson="/data/sample-geojson.json" >}}
+{{< q-map lat="22.547874" long="88.298500" geojson="/data/sample-geojson.json" >}}
 
 ## Contents
 
@@ -64,4 +64,3 @@ One also finds in this period a Pre-romanticist aspect. Hubert Robert's images o
 The middle of the eighteenth century saw a turn to Neoclassicism in France, that is to say a conscious use of Greek and Roman forms and iconography. This movement was promoted by intellectuals like Diderot, in reaction to the artificiality and the decorative essence of the rocaille style. In painting, the greatest representative of this style is Jacques-Louis David, who, mirroring the profiles of Greek vases, emphasized the use of the profile. His subject matter often involved classical history such as the death of Socrates and Brutus. The dignity and subject matter of his paintings were greatly inspired by Nicolas Poussin in the seventeenth century. Poussin and David were in turn major influences on Jean Auguste Dominique Ingres. Other important neoclassical painters of the period are Jean-Baptiste Greuze and Joseph-Marie Vien. Neoclassicism also penetrated decorative arts and architecture.
 
 Architects like Ledoux and Boullée developed a radical style of neoclassical architecture based on simple and pure geometrical forms with a research of simetry and harmony, elaborating visionary projects like the complex of the Saltworks of Arc-et-Senans by Ledoux, a model of an ideal factory developed from the rational concepts of the Enlightment thinkers.
-

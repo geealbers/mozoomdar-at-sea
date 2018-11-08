@@ -47,16 +47,16 @@ $page-text-color: $dark;
 $quire-page-header-color: $light;
 $quire-page-header-text-color: $dark;
 
-$quire-navbar-color: $white;
+$quire-navbar-color: #e06353;
 $quire-navbar-border-color: $dark;
 $quire-navbar-text-color: $dark;
 
 $quire-menu-color: $dark;
-$quire-menu-border-color: $dark;
-$quire-menu-text-color: $white;
+$quire-menu-border-color: $light;
+$quire-menu-text-color: $light;
 
 $quire-entry-image-color: $dark;
-$quire-entry-image-icons-color: $white;
+$quire-entry-image-icons-color: $dark;
 
 $quire-splash-page-color: $color-primary;
 
@@ -75,7 +75,7 @@ $cover-overlay-image: 'pattern-1.png';
 // or pattern overlay, add it to the YAML of your cover.md file,
 // --> image: cover-background.jpg
 
-$quire-cover-font-family: $sans-serif;
+$quire-cover-font-family: $serif;
 $quire-cover-text-color: $dark;
 
 $quire-cover-text-scale: 1;
@@ -99,4 +99,3 @@ $quire-entry-header-height: 6rem;
 $quire-map-height: 500px;
 $quire-deepzoom-height: 500px;
 // default heights for maps and zooming image figures
-

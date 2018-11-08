@@ -4,12 +4,12 @@ import 'leaflet-fullscreen'
 class Map {
   constructor() {
     this.el = 'js-map'
-    this.tiles = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+    this.tiles = 'http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg'
     this.attribution =
-      'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+      '<a href="http://maps.stamen.com">Map tiles</a> by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="https://creativecommons.org/licenses/by/3.0">CC BY SA</a>'
     this.data = $(`#${this.el}`).data('geojson')
     this.center = this.getCoordinates()
-    this.defaultZoom = 6
+    this.defaultZoom = 13
     this.map = this.createMap()
     this.addTiles()
 

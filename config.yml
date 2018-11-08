@@ -45,7 +45,7 @@ params:
   websiteFigureFallbackTextAfter: ". "
   displayBiblioShort: true
   imageDir: "img"
-  tocType: full
+  tocType: short
   menuType: short
   objectLinkText: "View in Collection"
   frontmatterPageStart: 0

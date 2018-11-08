@@ -49,3 +49,67 @@ figure_list:
     caption: "Detail of lower right corner of the painting with Morisot’s signature."
     credit: Image courtesy of Cleveland Museum of Art
     download: true
+  - id: "1"
+    src: PCM-portrait-1893.jpg
+    caption: "Portrait of Protap Chunder Mozoomdar taken in accordance with the World's Parliament of Religions. Chicago, 1893."
+    credit: "Public domain image"
+  - id: "2"
+    src: SS-Khedive-1871.jpg
+    caption: "P&O Steamship Khedive in Port Said, 1871."
+    credit: "(c) P&O Heritage Collection [www.poheritage.com](http://poheritage.com)"
+  - id: "3"
+    src: Anagarika-Dharmapala-1893.jpg
+    caption: "Portrait of Anagarika Dharmapala taken in accordance with the World's Parliament of Religions. Chicago, 1893."
+    credit: "Public domain image"
+  - id: "4"
+    src: Saudamini-c1890.png
+    caption: "Saudamini Mozoomdar, c.1890."
+    credit: "Public domain image"
+  - id: "5"
+    src: Goddess-Bhairavi-c1880s.jpg
+    caption: "The goddess Bhairavi, c.1880s. Despite her calm demenaor and *abhaya mudra*, or 'gesture to ward off fear,' Bhairavi is often a fear-inspiring goddess, as befits her name. Note her garland of skulls."
+    credit: "Public domain image, by G. Biswas"
+  - id: "6"
+    src: Aden-postcard-c1910.jpg
+    caption: "Aden - St. Point landing stage. Postcard, c.1910."
+    credit: "Public domain image"
+  - id: "7"
+    src: On-the-Suez-Canal-1895.jpg
+    caption: "On the Suez Canal, 1895."
+    credit: "Public domain image, by William Henry Jackson"
+  - id: "8"
+    src: SS-Khedive-1917.jpg
+    caption: "P&O Steamship Khedive, 1917."
+    credit: "Public domain image"
+  - id: "9"
+    src: Old-Harbor-Marseille-c1890-1900.jpg
+    caption: "Old Harbor, Marseille, c.1890-1900."
+    credit: "Public domain image"
+  - id: "10"
+    src: Plymouth-Pier-1904.jpg
+    caption: "The Hoe Pier & Drake's Island. Plymouth, England, 1904."
+    credit: "Public domain image"
+  - id: "11"
+    src: rev-robert-spears.jpg
+    caption: "Portrait of Reverend Robert Spears."
+    credit: The Channing School Archives, Highgate, London.
+  - id: "12"
+    src: Liverpool-landing-stage-1903.jpg
+    caption: "Landing Stage. Liverpool, 1903."
+    credit: "Public domain image"
+  - id: "13"
+    src: RMS-Umbria-1896.jpg
+    caption: "Cunard Line Royal Magesty Ship Umbria, 1896."
+    credit: "Public domain image"
+  - id: "14"
+    src: Plymouth-Church-Brooklyn-1904.jpg
+    caption: "Plymouth Church, Brooklyn, 1904."
+    credit: "Public domain image"
+  - id: "15"
+    src: Niagara-Falls-1898.jpg
+    caption: "Photochrom print of American Falls and the Rock of Ages, 1898."
+    credit: "Public domain image, by William Henry Jackson"
+  - id: "16"
+    src: Chicago-Art-Institute-1893.jpg
+    caption: "Photograph of the Art Institute of Chicago taken in accordance with the World's Parliament of Religions, 1893."
+    credit: "Public domain image"
