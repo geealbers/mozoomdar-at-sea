@@ -181,7 +181,7 @@ html {
   .quire-page--splash & {
     background-color: $quire-splash-page-color;
     * {
-      color: findColorInvert($quire-splash-page-color);
+      color: #363636;
     }
     .hero-body {
       padding-top: 15rem;
@@ -197,7 +197,7 @@ html {
         right: 47%;
         svg {
           width: 1rem;
-          fill: findColorInvert($quire-splash-page-color);
+          fill: #363636;
         }
       }
     }

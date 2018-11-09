@@ -7706,7 +7706,7 @@ html {
   .quire-page--splash .quire-page__header {
     background-color: #3273dc; }
     .quire-page--splash .quire-page__header * {
-      color: #fff; }
+      color: #363636; }
     .quire-page--splash .quire-page__header .hero-body {
       padding-top: 15rem;
       padding-bottom: 3rem; }
@@ -7720,7 +7720,7 @@ html {
         right: 47%; }
         .quire-page--splash .quire-page__header.quire-page__header--full-height .quire-page__header__splash-page-arrow svg {
           width: 1rem;
-          fill: #fff; }
+          fill: #363636; }
   .quire-page__header .hero-body {
     padding-top: 9rem;
     padding-bottom: 9rem; }
@@ -8305,23 +8305,23 @@ html {
   align-items: center;
   justify-content: center; }
   .quire-entry__image * {
-    color: #363636; }
+    color: #f5f5f5; }
   .quire-entry__image svg {
-    fill: #363636; }
+    fill: #f5f5f5; }
   .quire-entry__image a,
   .quire-entry__image button,
   .quire-entry__image .button {
     background-color: #363636;
-    color: #363636 !important; }
+    color: #f5f5f5 !important; }
     .quire-entry__image a:hover, .quire-entry__image a:focus,
     .quire-entry__image button:hover,
     .quire-entry__image button:focus,
     .quire-entry__image .button:hover,
     .quire-entry__image .button:focus {
       background-color: #292929;
-      color: #363636; }
+      color: #f5f5f5; }
   .quire-entry__image a {
-    border-bottom-color: #363636 !important; }
+    border-bottom-color: #f5f5f5 !important; }
   @media print {
     .quire-entry__image {
       background-color: transparent; }
@@ -8364,7 +8364,7 @@ html {
     right: 1rem;
     bottom: 1rem;
     font-size: .8rem;
-    border-color: #101010;
+    border-color: #cfcfcf;
     height: 2.25rem;
     z-index: 10; }
     .quire-entry__image .quire-image-control.quire-image-info {
@@ -8405,7 +8405,7 @@ html {
         .quire-entry__image .quire-image-control--more:hover + .quire-image-info, .quire-entry__image .quire-image-control--more:focus + .quire-image-info,
         .quire-entry__image .quire-image-control--more:focus + .quire-image-info {
           display: block;
-          border: 1px solid #101010; }
+          border: 1px solid #cfcfcf; }
     .quire-entry__image .quire-image-control--prev-image {
       top: calc(50% - 2.25rem);
       left: 0;
