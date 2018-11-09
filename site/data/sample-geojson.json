@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3522, 48.8566]
+        "coordinates": [88.298500, 22.547874]
       },
       "properties": {
         "name": "Sample GeoJson Point",
