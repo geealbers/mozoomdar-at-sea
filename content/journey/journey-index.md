@@ -2,6 +2,6 @@
 title: Journey
 weight: 5
 type: contents
-class: grid splash
+class: splash grid=2
 slug: .
 ---

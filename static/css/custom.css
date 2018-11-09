@@ -7,8 +7,12 @@
 }
 
 #contents .menu-list {
-  background-color: rgb(224, 99, 83);
+  background-color: rgb(225, 225, 225);
   background-color: rgba(225, 225, 225, 0.8);
+}
+
+#archives-archives-index .menu-list {
+
 }
 
 .quire-page--splash {
@@ -103,6 +107,10 @@
 }
 
 #journey-afterword .quire-page__content {
+  background-color: rgba(225, 225, 225, 0.8);
+}
+
+#journey-bibliography .quire-page__content {
   background-color: rgba(225, 225, 225, 0.8);
 }
 
@@ -254,6 +262,13 @@
 }
 
 #journey-afterword .quire-page--splash {
+ background-image: url('/img/headers/01.jpeg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+#journey-bibliography .quire-page--splash {
  background-image: url('/img/headers/01.jpeg');
  background-repeat: no-repeat;
  background-attachment: fixed;

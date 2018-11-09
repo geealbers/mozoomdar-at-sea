@@ -20,7 +20,7 @@ $slab-serif: Aleo, Rockwell, "Trebuchet MS", sans-serif;
 $family-primary: $serif;
 // body text: $serif, $sans-serif, $slab-serif
 
-$family-secondary: $sans-serif;
+$family-secondary: $serif;
 // headings and navigation items: $serif, $sans-serif, $slab-serif
 
 $quire-base-font-size: 17px;
@@ -59,6 +59,7 @@ $quire-entry-image-color: $dark;
 $quire-entry-image-icons-color: $dark;
 
 $quire-splash-page-color: $color-primary;
+$quire-splash-page-header-text-color: $dark;
 
 // Cover
 // -----------------------------------------------------------------------------

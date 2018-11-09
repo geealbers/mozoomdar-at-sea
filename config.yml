@@ -43,7 +43,7 @@ params:
   websiteFigureFallbackText: true
   websiteFigureFallbackTextBefore: "Visit the site at "
   websiteFigureFallbackTextAfter: ". "
-  displayBiblioShort: true
+  displayBiblioShort: false
   imageDir: "img"
   tocType: short
   menuType: short

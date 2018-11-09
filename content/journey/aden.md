@@ -19,14 +19,14 @@ to read his wife's writing:
 and again. I plan to read it more during my journey.... No matter how
 low a husband is, the dutiful care of his wife will lead to her own
 greatness. I hope I can someday become worthy of your love and
-respect.[^17]
+respect.[^18]
 
 Compare that excitement with his distaste for the crowds of Aden: "I
 have never been one for company. I don't like the babble of people. I am
 lonely in the truest sense of the term, waiting patiently to gain His
-eternal company."[^18] Again, the unhappiness of Mozoomdar's solitude
+eternal company."[^19] Again, the unhappiness of Mozoomdar's solitude
 manifests a longing for proximity to God.
 
-[^17]: Mozoomdar, *Letters*, 19-20.
+[^18]: Mozoomdar, *Letters*, 19-20.
 
-[^18]: Ibid, 20-21.
+[^19]: Ibid, 20-21.

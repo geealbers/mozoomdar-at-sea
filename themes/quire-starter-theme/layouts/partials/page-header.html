@@ -6,7 +6,7 @@
 
 {{- if .Params.image -}}
 {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Params.image -}}
-  <section class="quire-page__header hero {{ if in .Params.class "splash" }} quire-page__header--full-height{{ end }}" style="background-image: url('{{ $imgPath | absURL }}');">
+  <section class="quire-page__header hero {{ if in .Params.class "splash" }} quire-page__header--full-height{{ end }}">
 {{- else -}}
   <section class="quire-page__header hero {{ if in .Params.class "splash" }} quire-page__header--full-height{{ end }}">
 {{- end -}}

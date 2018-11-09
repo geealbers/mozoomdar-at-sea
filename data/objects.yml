@@ -21,3 +21,115 @@ object_list:
     link:
     figure:
       - src: Mozoomdar-Letters-English.pdf
+  - id: 3
+    title: Protap Chunder Mozoomdar
+    year: 1893
+    medium: Photograph
+    link:
+    figure:
+      - id: "1"
+  - id: 4
+    title: P&O Steamship Khedive in Port Said
+    year: 1871
+    medium: Photograph
+    link:
+    figure:
+      - id: "2"
+  - id: 5
+    title: Anagarika Dharmapala
+    year: 1893
+    medium: Photograph
+    link:
+    figure:
+      - id: "3"
+  - id: 6
+    title: Saudamini Mozoomdar
+    year: c1890
+    medium: Photograph
+    link:
+    figure:
+      - id: "4"
+  - id: 7
+    title: Goddess Bhairavi, one of the Mahavidya
+    author: P.C. Biswas
+    year: c1880s
+    medium: Lithograph print
+    link:
+    figure:
+      - id: "5"
+  - id: 8
+    title: Aden - St. Point landing stage
+    year: c1910
+    medium: Postcard
+    link:
+    figure:
+      - id: "6"
+  - id: 9
+    title: On the Suez Canal
+    author: William Henry Jackson
+    year: 1894
+    medium: Photographic print
+    link:
+    figure:
+      - id: "7"
+  - id: 10
+    title: P&O Steamship Khedive
+    year: 1917
+    link:
+    figure:
+      - id: "8"
+  - id: 11
+    title: Old Harbor (vieux-port), Marseille, France
+    year: c1890-1900
+    medium: Photochrom print
+    link:
+    figure:
+      - id: "9"
+  - id: 12
+    title: The Pier, with Drake's Island
+    year: c1890-1900
+    medium: Photochrom print
+    link:
+    figure:
+      - id: "10"
+  - id: 13
+    title: Reverend Robert Spears
+    year:
+    link:
+    figure:
+      - id: "11"
+  - id: 14
+    title: Landing Stage, Liverpool
+    year: 1903
+    medium: Postcard
+    link:
+    figure:
+      - id: "12"
+  - id: 15
+    title: Cunard Line Royal Magesty Ship Umbria
+    year: 1896
+    medium: Photograph
+    link:
+    figure:
+      - id: "13"
+  - id: 16
+    title: Plymouth Church, Brooklyn
+    year: 1904
+    medium: Photochrom print
+    link:
+    figure:
+      - id: "14"
+  - id: 17
+    title: American Falls and the Rock of Ages
+    year: 1898
+    author: William Henry Jackson
+    medium: Photochrom print
+    link:
+    figure:
+      - id: "15"
+  - id: 18
+    title: The Art Institute of Chicago
+    year: 1893
+    link:
+    figure:
+      - id: "16"
