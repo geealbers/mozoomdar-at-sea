@@ -9,7 +9,7 @@ class Map {
       '<a href="http://maps.stamen.com">Map tiles</a> by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="https://creativecommons.org/licenses/by/3.0">CC BY SA</a>'
     this.data = $(`#${this.el}`).data('geojson')
     this.center = this.getCoordinates()
-    this.defaultZoom = 13
+    this.defaultZoom = 2
     this.map = this.createMap()
     this.addTiles()
 
@@ -52,7 +52,7 @@ class Map {
         // Change the style here as desired
         pointToLayer: (feature, latlng) => {
           return L.circleMarker(latlng, {
-            radius: 8,
+            radius: 5,
             fillColor: '#333',
             color: '#000',
             weight: 1,

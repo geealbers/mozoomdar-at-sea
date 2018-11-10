@@ -5,8 +5,19 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [88.368852, 22.577999]
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [88.298500, 22.547874]
       },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.368852, 22.577999]
+      },
+
       "properties": {
         "name": "Sample GeoJson Point",
         "description": "This point is defined in sample-geojson.json in the static/data/ folder"
