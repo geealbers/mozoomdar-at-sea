@@ -14,5 +14,5 @@
 
 # Use these settings for Netlify
 #
-baseURL: "http://quire-demo.netlify.com"
+baseURL: "https://brave-kowalevski-418441.netlify.com"
 relativeURLs: true
