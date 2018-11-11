@@ -1,3 +1,4 @@
 [build]
   publish = "site"
   command = "hugo --config=config.yml, config/web.yml, config/environments/netlify.yml"
+  HUGO-Version = "0.20"
