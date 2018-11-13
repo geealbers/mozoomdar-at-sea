@@ -29,7 +29,7 @@ class Map {
   createMap() {
     return L.map(this.el, {
       // add leaflet options here
-      fullscreenControl: true
+      fullscreenControl: false
     }).setView(this.center, this.defaultZoom)
   }
 
@@ -53,17 +53,29 @@ class Map {
         pointToLayer: (feature, latlng) => {
           return L.circleMarker(latlng, {
             radius: 5,
-            fillColor: '#333',
+            fillColor: '#e06353',
             color: '#000',
             weight: 1,
             opacity: 1,
             fillOpacity: 0.75
           })
         },
+        style: function (feature) {
+          return {
+            color: '#000',
+            opacity: 0.8
+          }
+        },
         // Change styles here as desired
         onEachFeature: (feature, layer) => {
           let options = { minWidth: 100, maxHeight: 250 }
-          layer.bindPopup(feature.properties.description, options)
+          marker.bindPopup(feature.properties.description, options);
+          marker.on('mouseover', function (e) {
+            this.openPopup();
+          });
+          marker.on('mouseout', function (e) {
+            this.closePopup();
+          });
         }
       }).addTo(this.map)
     })

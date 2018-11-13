@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Farewell to Kolkata"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +16,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "A Prolongued Departure"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +29,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "The Bay of Bengal"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,7 +42,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Colombo"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +55,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "The Arabian Sea"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -58,7 +68,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Aden"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -69,7 +81,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "The Red Sea"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -80,7 +94,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "The Suez Canal"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -91,7 +107,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "The Mediterranean Sea"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -102,7 +120,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Marseille"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +133,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Strait of Gibraltar"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -124,7 +146,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "The Bay of Biscay"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -135,7 +159,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Plymouth"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -146,7 +172,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "London"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -157,7 +185,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Liverpool"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -168,7 +198,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "The Atlantic Ocean"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -179,7 +211,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "New York"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -190,7 +224,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Niagara Falls"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -201,7 +237,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "Chicago"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
