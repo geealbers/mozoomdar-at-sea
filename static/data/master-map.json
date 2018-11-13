@@ -251,7 +251,9 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#e06353"
+        "stroke": "#e06353",
+        "color": "#e06353",
+        "opacity": 0.75
       },
       "geometry": {
         "type": "LineString",

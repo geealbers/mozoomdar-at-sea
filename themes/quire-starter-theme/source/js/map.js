@@ -9,7 +9,7 @@ class Map {
       '<a href="http://maps.stamen.com">Map tiles</a> by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="https://creativecommons.org/licenses/by/3.0">CC BY SA</a>'
     this.data = $(`#${this.el}`).data('geojson')
     this.center = this.getCoordinates()
-    this.defaultZoom = 2
+    this.defaultZoom = 4
     this.map = this.createMap()
     this.addTiles()
 
@@ -29,7 +29,7 @@ class Map {
   createMap() {
     return L.map(this.el, {
       // add leaflet options here
-      fullscreenControl: false
+      fullscreenControl: true
     }).setView(this.center, this.defaultZoom)
   }
 
@@ -62,22 +62,22 @@ class Map {
         },
         style: function (feature) {
           return {
-            color: '#000',
-            opacity: 0.8
+            stroke: feature.properties.stroke,
+            color: feature.properties.color,
+            opacity: feature.properties.opacity,
           }
         },
         // Change styles here as desired
         onEachFeature: (feature, layer) => {
-          let options = { minWidth: 100, maxHeight: 250 }
-          marker.bindPopup(feature.properties.description, options);
-          marker.on('mouseover', function (e) {
-            this.openPopup();
-          });
-          marker.on('mouseout', function (e) {
-            this.closePopup();
-          });
+          $(L.circleMarker).mouseover(feature.properties.description, options)
+          })
+          //let options = { minWidth: 100, maxHeight: 250 }
+          //layer.bindPopup(feature.properties.description, options)
         }
-      }).addTo(this.map)
+      }).addTo(this.map);
+      L.circleMarker.on('click', function(leafletEvent) {
+        window.location = "../content/journey.farewell-to-kolkata.md"
+      });
     })
   }
 }
