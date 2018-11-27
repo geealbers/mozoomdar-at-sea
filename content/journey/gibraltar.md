@@ -2,6 +2,7 @@
 title: The Strait of Gibraltar
 type: notes
 class: splash
+PDF: false
 image: /headers/12.jpeg
 weight: 22
 ---

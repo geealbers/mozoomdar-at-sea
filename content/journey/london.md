@@ -3,6 +3,7 @@ title: London
 type: notes
 class: splash
 image: /headers/15.jpeg
+PDF: false
 weight: 25
 ---
 

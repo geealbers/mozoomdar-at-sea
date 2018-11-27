@@ -3,6 +3,7 @@ title: The Arabian Sea
 type: notes
 class: splash
 image: /headers/06.jpeg
+PDF: false
 weight: 15
 ---
 

@@ -3,6 +3,7 @@ title: Colombo
 type: notes
 class: splash
 image: /headers/05.jpeg
+PDF: false
 weight: 14
 ---
 

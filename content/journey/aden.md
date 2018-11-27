@@ -3,6 +3,7 @@ title: Aden
 type: notes
 class: splash
 image: /headers/07.jpeg
+PDF: false
 weight: 17
 ---
 

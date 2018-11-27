@@ -3,6 +3,7 @@ title: The Red Sea
 type: notes
 class: splash
 image: /headers/08.jpeg
+PDF: false
 weight: 18
 ---
 

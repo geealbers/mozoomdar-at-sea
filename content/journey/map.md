@@ -3,6 +3,7 @@ title: Map
 type: page
 class: splash
 image: /headers/01.jpeg
+PDF: false
 weight: 6
 ---
 

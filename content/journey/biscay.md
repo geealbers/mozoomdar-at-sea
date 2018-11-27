@@ -3,6 +3,7 @@ title: The Bay of Biscay
 type: notes
 class: splash
 image: /headers/13.jpeg
+PDF: false
 weight: 23
 ---
 

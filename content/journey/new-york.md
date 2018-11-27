@@ -3,6 +3,7 @@ title: New York City
 type: notes
 class: splash
 image: /headers/18.jpeg
+PDF: false
 weight: 28
 ---
 

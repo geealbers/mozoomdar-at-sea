@@ -3,6 +3,7 @@ title: The Suez Canal
 type: notes
 class: splash
 image: /headers/09.jpeg
+PDF: false
 weight: 19
 ---
 

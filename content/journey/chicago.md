@@ -3,6 +3,7 @@ title: The World's Parliament of Religions
 type: notes
 class: splash
 image: /headers/20.jpeg
+PDF: false
 weight: 30
 ---
 

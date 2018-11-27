@@ -3,6 +3,7 @@ title: The Atlantic Ocean
 type: notes
 class: splash
 image: /headers/17.jpeg
+PDF: false
 weight: 27
 ---
 

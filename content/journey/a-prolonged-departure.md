@@ -3,6 +3,7 @@ title: A Prolonged Departure
 type: notes
 class: splash
 image: /headers/03.jpeg
+PDF: false
 weight: 12
 ---
 

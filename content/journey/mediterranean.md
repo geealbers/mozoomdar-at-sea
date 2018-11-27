@@ -3,6 +3,7 @@ title: The Mediterranean Sea
 type: notes
 class: splash
 image: /headers/10.jpeg
+PDF: false
 weight: 20
 ---
 

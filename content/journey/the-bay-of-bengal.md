@@ -3,6 +3,7 @@ title: The Bay of Bengal
 type: notes
 class: splash
 image: /headers/04.jpeg
+PDF: false
 weight: 13
 ---
 

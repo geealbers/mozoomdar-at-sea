@@ -3,6 +3,7 @@ title: Plymouth
 type: notes
 class: splash
 image: /headers/14.jpeg
+PDF: false
 weight: 24
 ---
 

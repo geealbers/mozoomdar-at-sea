@@ -3,6 +3,7 @@ title: Conclusion
 type: notes
 class: splash
 image: /headers/01.jpeg
+PDF: false
 weight: 31
 ---
 

@@ -2,6 +2,7 @@
 title: Liverpool
 type: notes
 class: splash
+PDF: false
 image: /headers/16.jpeg
 weight: 26
 ---

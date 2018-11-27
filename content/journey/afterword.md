@@ -3,6 +3,7 @@ title: Afterword
 type: notes
 class: splash
 image: /headers/01.jpeg
+PDF: false
 weight: 32
 ---
 

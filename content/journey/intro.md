@@ -3,6 +3,7 @@ title: Introduction
 type: notes
 class: splash
 image: /headers/01.jpeg
+PDF: false
 weight: 10
 pdf: false
 ---

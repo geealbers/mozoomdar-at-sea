@@ -3,6 +3,7 @@ title: Niagara Falls
 type: notes
 class: splash
 image: /headers/19.jpeg
+PDF: false
 weight: 29
 ---
 
