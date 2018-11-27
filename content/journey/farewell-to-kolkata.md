@@ -4,6 +4,7 @@ type: notes
 class: splash
 image: /headers/02.jpeg
 weight: 11
+pdf: false
 ---
 
 Protap Chunder Mozoomdar gave a farewell address to his Brahmo Samaj

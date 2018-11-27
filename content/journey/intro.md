@@ -4,6 +4,7 @@ type: notes
 class: splash
 image: /headers/01.jpeg
 weight: 10
+pdf: false
 ---
 
 {{< q-figure id="1" label="true" >}}
