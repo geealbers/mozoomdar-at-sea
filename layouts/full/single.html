@@ -1,0 +1,34 @@
+{{/*
+
+*/}}
+
+{{ define "main" }}
+
+<div class="{{ partial "page-class.html" . }}" id="main" role="main">
+  {{ partial "page-header.html" . }}
+
+  <section class="section quire-page__content" id="content">
+    <div class="container">
+      <div class="content">
+
+        {{ range where .Site.Pages "Section" "journey" }}
+          <h2>{{ .Title }}</h2>
+          {{ .Content }}
+        {{ end }}
+
+        <div class="footnotes">
+          <hr />
+          <ol>
+            {{ range .Site.Data.notes.endnotes }}
+            <li id="fn:{{ .id }}">{{ markdownify .note }} <a class="footnote-return" href="#fnref:{{ .id }}">↩</a></li>
+            {{ end }}
+          </ol>
+        <div>
+
+
+      </div>
+    </div>
+  </section>
+
+</div>
+{{ end }}
