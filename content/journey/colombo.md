@@ -1,6 +1,6 @@
 ---
 title: Colombo
-type: page
+type: notes
 class: splash
 image: /headers/05.jpeg
 weight: 14
@@ -16,13 +16,13 @@ Only in the golden Lanka can a sight like this be seen. Pearls are
 strewn about everywhere in the seabed. Corals, gems, sandalwood, ivory,
 ebony, all you can wish for, as much as you need. Coconuts and areca
 palms are floating in the gentle waves. Everything is available, but the
-presence of God and true devotion to religion is rare.[^8]
+presence of God and true devotion to religion is rare.{{< q-note "8" >}}
 
 Mozoomdar's description during his approach to Sri Lanka emphasizes two
 of his religious convictions. First, that the mark of God is manifest in
 all of the beauty and power of nature. Second, that despite abundant
 signs of divine presence, many have lost touch with the spirit of
-God.[^9]
+God.{{< q-note "9" >}}
 
 PCM stopped for two days in Colombo, welcomed with generosity by
 Anagarika Dharmapala, the famous Buddhist revivalist who would also
@@ -30,13 +30,4 @@ speak at the World's Parliament of Religions. In a letter to Saudamini,
 Mozoomdar extolled the monk's kindness for allowing him to board in his
 father's house, feeding him a feast of fresh fruits and vegetables, and
 attending to his insomnia by providing good conversation throughout the
-night.[^10]
-
-[^8]: Mozoomdar, *Letters*, 9.
-
-[^9]: Mozoomdar would later spell out these sentiments before the
-    World's Parliament of Religions in his lecture titled "The World's
-    Religious Debt to Asia." See Mozoomdar, *Lectures in America*,
-    15-29.
-
-[^10]: Mozoomdar, *Letters*, 11-12.
+night.{{< q-note "10" >}}

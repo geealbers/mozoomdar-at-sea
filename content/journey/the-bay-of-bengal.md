@@ -1,6 +1,6 @@
 ---
 title: The Bay of Bengal
-type: page
+type: notes
 class: splash
 image: /headers/04.jpeg
 weight: 13
@@ -14,7 +14,7 @@ first impressions of the waters before him:
 >The endless expanse of rippling blue is like the open arms of a
 mother. The dancing, churning waves crowned with surf are like excited
 children, and I their brother whose sight has filled them with joy,
-encouraging me to dance, chanting the name of Goddess Anandamayi.[^6]
+encouraging me to dance, chanting the name of Goddess Anandamayi.{{< q-note "6" >}}
 
 Yet Mozoomdar's prose never strays too far from matters of health, and
 the account of his first days at sea is ridden with descriptions of
@@ -22,11 +22,4 @@ medications and reflections on his constitution. Although expressed as
 assurances to Saudamini of his healthiness, Mozoomdar's preoccupation
 with details such as whether he slept through the night, the pain in his
 hand, his regular consumption of cod liver oil, and his upset stomach
-suggests that he continued to worry over his physical condition.[^7]
-
-[^6]: Ibid, 3.
-
-[^7]: Hunyadi János was a Hungarian aperient spring water that gained
-    popularity in the 1860s. See *Hunyadi János: Natural Purgative Water
-    Drawn from Saxlehner's Bitter-Water Springs near Budapest*
-    (Budapest: Firm of A. Saxlehner, 1898).
+suggests that he continued to worry over his physical condition.{{< q-note "7" >}}

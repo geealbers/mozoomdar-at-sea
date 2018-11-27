@@ -1,6 +1,6 @@
 ---
 title: Liverpool
-type: page
+type: notes
 class: splash
 image: /headers/16.jpeg
 weight: 26
@@ -16,20 +16,14 @@ B.B. Nagarkar, a Brahmo friend who would travel with him to Chicago, PCM
 had occasions to relax in good company. Yet his letters suggest that he
 was plagued with uncertainties during his brief moments of rest. Shaken
 by the discovery of a friend's death in India, he writes, "How can I be
-assured of anything after this?"[^44] Likely in an effort to shore up
+assured of anything after this?" {{< q-note "44" >}} Likely in an effort to shore up
 uncertainties regarding his own health, Mozoomdar redoubled his
 authoritative tone to Saudamini, demanding that she pray for him every
-day, finish her work, and prepare herself for heaven.[^45] Similarly, in
+day, finish her work, and prepare herself for heaven.{{< q-note "45" >}} Similarly, in
 a letter written the evening before his departure for the Liverpool
 Harbor, PCM assures Saudamini -- and himself -- that: "I am well. People
 in England told me that my features haven't changed at all in these ten
 years. I don't find that believable in the slightest, but so many people
-said this that it would have made you happy."[^46] Having thus attempted
+said this that it would have made you happy." {{< q-note "47" >}} Having thus attempted
 to comfort himself, Mozoomdar boarded the RMS Umbria bound for New York
 on 26 August.
-
-[^44]: Mozoomdar, *Letters*, 38.
-
-[^45]: Ibid.
-
-[^46]: Ibid, 39-40.
