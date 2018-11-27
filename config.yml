@@ -7,7 +7,7 @@
 # you've copied the default theme and given it a different name make sure to
 # update the value here too.
 
-baseURL: "https://mystifying-bhaskara-e62fdc.netlify.com"
+baseURL: "https://mozoomdar-at-sea.netlify.com"
 relativeURLs: true
 
 title: "Quire Starter"
