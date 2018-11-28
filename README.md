@@ -14,3 +14,4 @@ TODO:
 - enable/disable pdf/epub visibility on all elements
 - add PDF lightbox to catalog entries
 - add favicon
+- fix misaligned catalog grid
