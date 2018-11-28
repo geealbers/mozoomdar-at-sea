@@ -1,7 +1,8 @@
 ---
 title: The Strait of Gibraltar
-type: page
+type: notes
 class: splash
+PDF: false
 image: /headers/12.jpeg
 weight: 22
 ---
@@ -10,7 +11,7 @@ weight: 22
 of Africa, devoid of people or greens, on the other. We are sailing up
 the narrow stream in between. The water is peaceful, the wind is cool,
 and the sunlight feels beautiful. I am filled with hope, and the place
-of my work lies ahead of me.[^33]
+of my work lies ahead of me.{{< q-note "33" >}}
 
 Though Mozoomdar never mentioned the Pillars of Hercules as he passed
 through the Strait of Gibraltar, they held true as a symbolic threshold
@@ -23,8 +24,4 @@ he saw for them upon his homecoming:
 > I will return home a new man. You will also probably be a new person by
 then. I won't get angry at you or annoy you any more with my tedious
 intolerances. You will also not be angry at me or deride my actions. If
-God is near, this will be possible and we'll know.[^34]
-
-[^33]: Mozoomdar, *Letters*, 32.
-
-[^34]: Ibid.
+God is near, this will be possible and we'll know.{{< q-note "34" >}}

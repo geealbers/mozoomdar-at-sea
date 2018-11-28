@@ -58,9 +58,9 @@ contributor:
 copyright: © 2018 Nick Tackes
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: http://creativecommons.org/licenses/by/4.0/
+  name: Creative Commons Attribution-NoDerivatives 4.0 International License
+  abbreviation: CC BY-ND
+  url: https://creativecommons.org/licenses/by-nd/4.0/
   scope: full # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
@@ -98,23 +98,6 @@ resource_link:
 subject:
   - type: keyword
     name: hinduism, world's parliament of religions, brahmo samaj
-  - type: bisac
-    name: ART HISTORY / English / Jams
-    identifer: ART0009210
-  - type: getty
-    name: Paul Cézanne
-    identifier: "http://vocab.getty.edu/ulan/500004793"
-  - type: keyword
-    name: still life
-  - type: getty
-    name: Hampshire
-    identifier: "http://vocab.getty.edu/tgn/7008139"
-  - type: getty
-    name: oil pastels
-    identifier: "http://vocab.getty.edu/aat/300230810"
-  - type: getty
-    name: Still Life with Blue Pot
-    identifier: "http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700002042"
 
 # ------------------------------------------------------------------------------
 # Revision History

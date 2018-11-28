@@ -1,9 +1,11 @@
 ---
 title: Introduction
-type: page
+type: notes
 class: splash
 image: /headers/01.jpeg
+PDF: false
 weight: 10
+pdf: false
 ---
 
 {{< q-figure id="1" label="true" >}}
@@ -18,7 +20,7 @@ seaboard (not to mention the publication of his book, *The Oriental
 Christ*) enamored liberal Christians such as Jenkin Lloyd Jones, a
 Unitarian minister who would help organize the World's Parliament of
 Religions to be held in conjuction with the World's Fair in
-Chicago.[^1] PCM attended and addressed this parliament in order to rally
+Chicago.{{< q-note "1" >}} PCM attended and addressed this parliament in order to rally
 support for the New Dispensation, a Brahmo Samaj vision of global
 religious confraternity that he hoped would mark the end of religious
 sectarianism and restore the prominence of an emotional, rather than
@@ -31,5 +33,3 @@ that prefaced his addresses at the World's Parliament of Religions,
 based on letters he wrote to his wife Saudamini, "Mozoomdar at
 Sea" enables a fuller appreciation of these Chicago lectures, his
 religious mission, and his hope for the New Dispensation.
-
-[^1]: Sunrit Mullick, *The First Hindu Mission to America: The Pioneering Visits of Protap Chunder Mozoomdar* (New Delhi: Northern Book Centre, 2010), 95.
