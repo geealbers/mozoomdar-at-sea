@@ -58,9 +58,9 @@ contributor:
 copyright: © 2018 Nick Tackes
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: http://creativecommons.org/licenses/by/4.0/
+  name: Creative Commons Attribution-NoDerivatives 4.0 International License
+  abbreviation: CC BY-ND
+  url: https://creativecommons.org/licenses/by-nd/4.0/
   scope: full # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
