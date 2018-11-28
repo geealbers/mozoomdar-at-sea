@@ -11,7 +11,6 @@ This site is built with [Quire](http://gettypubs.github.io/quire)
 
 TODO:
 - link site pages to map.js buttons
-- build a master .md file for PDF output
 - enable/disable pdf/epub visibility on all elements
 - add PDF lightbox to catalog entries
 - add favicon
